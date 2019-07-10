@@ -11,5 +11,8 @@ It is my passion to build products that help transform lives of the people. With
 
 Below is a another hopefully better visualization with respect to the bar graph in the article [“The Metamorphosis.” The Economist, August 13, 2016.] (https://www.economist.com/britain/2016/08/13/the-metamorphosis)
 
+![TellingStoriesWithData1](https://user-images.githubusercontent.com/8137984/60935181-0807c880-a297-11e9-8673-7a0ff9015fa0.PNG)
+
+
 
 
