@@ -36,8 +36,11 @@ I have added this visualization based on what a normal reader might be intereste
 
 # Assignment-3 : Data visualization critique #2
 
+Source and information : [BJP(Ruling Govt party in India) Tweet](https://twitter.com/BJP4India/status/1039110217160478720) 
 
+The tweet above is aimed to describe to the twitter followers that petrol prices decreased during the last 5 years of tenure of BJP but it is represented inaccurately, not only in terms of scale, but also in terms of labels on axis. I have made the visualization better scaled, better labeled and translated headings in english. I have made the changes from the point of view of BJP promoting itself to the reader. Therefore, the increase and percentage increase in petrol prices are shown.  
 
+<div class="infogram-embed" data-id="6a36b0fa-dc4e-4852-820c-a812bf424cef" data-type="interactive" data-title="Copy: Copy:"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6a36b0fa-dc4e-4852-820c-a812bf424cef" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: Copy:</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 
 
