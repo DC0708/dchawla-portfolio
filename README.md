@@ -19,7 +19,7 @@ It hopefully is a better visualization (both in terms of context and design) wit
 
 # Assignment-2 : OIG data visualization 
 
-Source : [DHS Report on dangerous overcrowding and prolonged detention of children and adults](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
+Source and data information : [DHS Report on dangerous overcrowding and prolonged detention of children and adults](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
 
 Here is visualization as per DHS Analyst : 
 The main audience is considered to be high-level policy-makers at DHS as well as other government agencies. I have started the visualization by stating the problem that is more incoming detainees and broken down it by segment. Then to further dive down into where the problem might lie and give deeper insights of border patrol and ICE, I have added the main two data visualizations relating to capacity at border patrol and funding at ICE. I added the last two visualizations to make sure the policy makers know where border patrol and ICE are facing problems(that is capacity and funding to manage the capacity). 
