@@ -12,9 +12,9 @@ Being the product manager of a ride offering company, I want to quantify the rid
 ## Initial Sketch
 There are basically two sketches :
 1. It shows the journey of an actual user taking a ride.
-(/image1.jpg)
+[Sketch 1](/image1.jpg)
 2. The audience (the class) and their journey to convince them that the ride quality metrics are good enough to make sure a user has a great ride experience 
-(/image2.jpg)
+[Sketch 2](/image2.jpg)
 
 ## The data 
 
