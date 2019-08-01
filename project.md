@@ -45,11 +45,11 @@ After going through lots of discussion and thinking, and to make sure to concent
 The basic wireframe story built via [Balsamiq] (https://balsamiq.cloud) is shown below :
 
 
-![Overall Scenario](images/1.png)
-![User survery](images/2.png)
-![Top 5 complaints](images/3.png)
-![Different type of incidents](images/4.png)
-![Call to action](images/5.png)
+![Overall Scenario](1.PNG)
+![User survery](2.PNG)
+![Top 5 complaints](3.PNG)
+![Different type of incidents](4.PNG)
+![Call to action](5.PNG)
 
 
 
