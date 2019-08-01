@@ -46,10 +46,24 @@ The basic wireframe story built via [Balsamiq] (https://balsamiq.cloud) is shown
 
 
 ![Overall Scenario](1.PNG)
+I have used just one huge number in order to portray how important lift and uber have become a part of day to day commute. 
+
 ![User survery](2.PNG)
+
+
+This highlights findings of the user survey that was conducted on 42 people from 20-30 years of age who were regular cab rider. It finds that safety is the most important concern for everyone riding an uber or a lyft. The pie chart graph shown above will represent that out of the 42 people for whom the survey was conducted, 25 of them felt the safety was the most important concern. Others listed price, comfort etc. as their major concern.
+
 ![Top 5 complaints](3.PNG)
+
+This represents the top 5 complaints of the riders, again drivers being rude and safety being the major concern. Its a bar chart representation of the number of complaints. This dataset was available online.
+
 ![Different type of incidents](4.PNG)
+
+This again represents a bar graph with numbers representing the different assaults(sexual assault being the topmost) and serious incidents occurred due to bad drivers. Source : https://www.whosdrivingyou.org/rideshare-incidents
+
 ![Call to action](5.PNG)
+
+This is the final call to action for everyone to join a movement to make sure uber, lyft and other companies do a comprehensive background check before they hire someone as a driver. 
 
 
 
