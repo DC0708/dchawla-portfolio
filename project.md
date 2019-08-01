@@ -32,6 +32,25 @@ Accumulate as much data to quantify the ride quality to as minimum metrics as po
 Build visualizations to signify how important these metrics are and how they cover the ride quality aspect.
 And finally present using a story of a person wanting to take a ride, and if the user takes the ride the ride covers all the ride quality metrics, the end user is bound to have a great and a happy experience.
 
+## Part 2
+
+After going through lots of discussion and thinking, and to make sure to concentrate on a particular cause and not deviate a lot so that the user understands the story related to taking a ride. It was decided to pursue the following story or steps in order to make aware of a common person of the the incidents created due to bad quality of rides by uber and lyft. 
+
+1. Present the current situation detailing how big the current business of uber and ride is!
+2. Understanding via a survey amongst the regular cab riders, the most important concerns related to cab rides.
+3. List out the topmost complaints faced by uber and lyft.
+4. List out the assaults and the different type of incidents that have happened at uber and lyft over the previous years.
+5. The third and fourth point above narrows it down that the main problem faced is that the uber and lyft don't do a comprehensive background check while hiring a driver and anyone can easily become one. This results to different type of assaults where cab riders aren't safe. Thus, it narrows down to signing a petition for uber and lyft to be more cautious while hiring a driver.
+
+The basic wireframe story built via [Balsamiq] (https://balsamiq.cloud) is shown below :
+
+
+(images/1.png)
+(images/2.png)
+(images/3.png)
+(images/4.png)
+(images/5.png)
+
 
 
 
