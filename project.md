@@ -44,8 +44,8 @@ After going through lots of discussion and thinking, and to make sure to concent
 
 The basic wireframe story built via [Balsamiq] (https://balsamiq.cloud) is shown below :
 
-
 ![Overall Scenario](1.PNG)
+
 I have used just one huge number in order to portray how important lift and uber have become a part of day to day commute. 
 
 ![User survery](2.PNG)
