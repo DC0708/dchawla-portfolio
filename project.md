@@ -59,12 +59,21 @@ This represents the top 5 complaints of the riders, again drivers being rude and
 
 ![Different type of incidents](4.PNG)
 
-This again represents a bar graph with numbers representing the different assaults(sexual assault being the topmost) and serious incidents occurred due to bad drivers. Source : https://www.whosdrivingyou.org/rideshare-incidents
+This again represents a bar graph with numbers representing the different assaults (with 395 alleged sexual assaults reported being the topmost) and serious incidents occurred due to bad drivers.This is majorly data after 2016. Source : https://www.whosdrivingyou.org/rideshare-incidents 
+
+![Leaked Uber Customer Reports](6.PNG)
+Another page over here will be displayed showing uber leaked data containing two numbers, 6160 sexual assault tickets and 5827 rape tickets received by Uber with the source being the article : https://www.buzzfeednews.com/article/charliewarzel/internal-data-offers-glimpse-at-uber-sex-assault-complaints#.wxZnDylOR
 
 ![Call to action](5.PNG)
 
 This is the final call to action for everyone to join a movement to make sure uber, lyft and other companies do a comprehensive background check before they hire someone as a driver. 
 
+Interview Questions and findings : 
+
+Interview was conducted whether to find out the above shorthand story is compelling enough and if it made sense to the audience. It was majorly focused on the users from 20-30 using cabs regularly.
+
+The major questions were as follows : 
+1. 
 
 
 
