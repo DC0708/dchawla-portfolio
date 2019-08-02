@@ -48,20 +48,21 @@ The basic wireframe story built via [Balsamiq] (https://balsamiq.cloud) is shown
 
 I have used just one huge number in order to portray how important lift and uber have become a part of day to day commute. 
 
-![User survery](2.PNG)
+![User survery](4.PNG)
 
 
 This highlights findings of the user survey that was conducted on 42 people from 20-30 years of age who were regular cab rider. It finds that safety is the most important concern for everyone riding an uber or a lyft. The pie chart graph shown above will represent that out of the 42 people for whom the survey was conducted, 25 of them felt the safety was the most important concern. Others listed price, comfort etc. as their major concern.
 
-![Top 5 complaints](3.PNG)
+![Top 5 complaints](2.PNG)
 
 This represents the top 5 complaints of the riders, again drivers being rude and safety being the major concern. Its a bar chart representation of the number of complaints. This dataset was available online.
 
-![Different type of incidents](4.PNG)
+![Different type of incidents](3.PNG)
 
 This again represents a bar graph with numbers representing the different assaults (with 395 alleged sexual assaults reported being the topmost) and serious incidents occurred due to bad drivers.This is majorly data after 2016. Source : https://www.whosdrivingyou.org/rideshare-incidents 
 
 ![Leaked Uber Customer Reports](6.PNG)
+
 Another page over here will be displayed showing uber leaked data containing two numbers, 6160 sexual assault tickets and 5827 rape tickets received by Uber with the source being the article : https://www.buzzfeednews.com/article/charliewarzel/internal-data-offers-glimpse-at-uber-sex-assault-complaints#.wxZnDylOR
 
 ![Call to action](5.PNG)
@@ -73,7 +74,11 @@ Interview Questions and findings :
 Interview was conducted whether to find out the above shorthand story is compelling enough and if it made sense to the audience. It was majorly focused on the users from 20-30 using cabs regularly.
 
 The major questions were as follows : 
-1. 
+
+1. Did you know the information that was presented to you above?
+2. Were you able to understand the flow and the data presented? Would you like to change/add/remove anything?
+3. Will you be willing to sign the petition? If not, why?
+ 
 
 
 
