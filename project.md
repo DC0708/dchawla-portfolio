@@ -34,7 +34,7 @@ And finally present using a story of a person wanting to take a ride, and if the
 
 ## Part 2
 
-After going through lots of discussion and thinking, and to make sure to concentrate on a particular cause and not deviate a lot so that the user understands the story related to taking a ride. It was decided to pursue the following story or steps in order to make aware of a common person of the the incidents created due to bad quality of rides by uber and lyft. 
+After going through lots of thinking and discussion, to make sure to concentrate on a particular cause and not deviate a lot so that the user understands the story related to taking a ride. It was decided to pursue the following story or steps in order to make aware of a common person of the the incidents created due to bad quality of rides by uber and lyft. 
 
 1. Present the current situation detailing how big the current business of uber and ride is!
 2. Understanding via a survey amongst the regular cab riders, the most important concerns related to cab rides.
@@ -46,18 +46,19 @@ The basic wireframe story built via [Balsamiq] (https://balsamiq.cloud) is shown
 
 ![Overall Scenario](1.PNG)
 
-I have used just one huge number in order to portray how important lift and uber have become a part of day to day commute. 
+I have used just one huge number in order to portray how important lift and uber have become a part of our daily commute. 
+
 
 ![User survery](4.PNG)
 
 
 This highlights findings of the user survey that was conducted on 42 people from 20-30 years of age who were regular cab rider. It finds that safety is the most important concern for everyone riding an uber or a lyft. The pie chart graph shown above will represent that out of the 42 people for whom the survey was conducted, 25 of them felt the safety was the most important concern. Others listed price, comfort etc. as their major concern.
 
-![Top 5 complaints](2.PNG)
+![Top 5 complaints](3.PNG)
 
 This represents the top 5 complaints of the riders, again drivers being rude and safety being the major concern. Its a bar chart representation of the number of complaints. This dataset was available online.
 
-![Different type of incidents](3.PNG)
+![Different type of incidents](2.PNG)
 
 This again represents a bar graph with numbers representing the different assaults (with 395 alleged sexual assaults reported being the topmost) and serious incidents occurred due to bad drivers.This is majorly data after 2016. Source : https://www.whosdrivingyou.org/rideshare-incidents 
 
@@ -79,6 +80,18 @@ The major questions were as follows :
 2. Were you able to understand the flow and the data presented? Would you like to change/add/remove anything?
 3. Will you be willing to sign the petition? If not, why?
  
+The interview was conducted face to face with 3 cab riders in the age group 24-27. The major findings from the interview were as follows :
+
+Regarding Question-1 : All of them didn't know about the information that is presented above. One of them had a vague idea, but she didn't know that the numbers were this big.
+
+Regarding Question-2 : Yes, they were able to interpret the flow. However, one of them said that the end goal wasn't clear from the beginning and it would be better if the basic idea of what the end goal is laid out in the beginning.
+
+Regarding Question-3 : All of them agreed to signing the petition, but one of them thought its not just background check, but realtime monitoring is what is needed.
+
+
+Modifications to be made :
+So, overall through the interview feedback, it was concluded to add some introduction prior to showing up the big number in regard to let users know what the website is all about. Also, the petition text would be modified to atleast a background check and also realtime monitoring for better safety.
+
 
 
 
