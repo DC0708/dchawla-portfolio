@@ -92,7 +92,13 @@ Regarding Question-3 : All of them agreed to signing the petition, but one of th
 Modifications to be made :
 So, overall through the interview feedback, it was concluded to add some introduction prior to showing up the big number in regard to let users know what the website is all about. Also, the petition text would be modified to atleast a background check and also realtime monitoring for better safety.
 
+## Part 3
 
+Intended Audience : Anyone taking cab at any point of time to travel is the intended audience for the portfolio. The user survey conducted targeted 20-30 years of age whereas the user research conducted was on 3 people of age group 24-27.
+
+I started the project on a very broadline to find out the important metrics of ride quality. But the user surveys and digging deep into the project made me realize an important concern that needs awareness, that being ride safety and the drivers being atrocious towards the riders. Therfore, I decided to present on this topic. In the user research conducted, I realized major changes as a part of the project wireframe and what the final website was going to be about. This made me realize the importance of user research and the way you do things, you always are bound te miss some important things that a fresh eye can see. Here is the link to the shorthand story : 
+
+[Ride Safety](https://preview.shorthand.com/lEVAdCvSWiAMRePN)
 
 
 
